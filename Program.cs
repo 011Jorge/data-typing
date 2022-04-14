@@ -14,7 +14,6 @@ namespace Tipagem_e_Saida_de_dados
             bool simpleInformation = true;
             char uniqueCaract = 'a';
 
-
             Console.WriteLine(nameCurso);
         }
     }
