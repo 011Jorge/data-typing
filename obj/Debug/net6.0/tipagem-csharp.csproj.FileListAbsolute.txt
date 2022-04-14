@@ -1,0 +1,15 @@
+/home/jorge/Área de Trabalho/tipagem-csharp/bin/Debug/net6.0/tipagem-csharp
+/home/jorge/Área de Trabalho/tipagem-csharp/bin/Debug/net6.0/tipagem-csharp.deps.json
+/home/jorge/Área de Trabalho/tipagem-csharp/bin/Debug/net6.0/tipagem-csharp.runtimeconfig.json
+/home/jorge/Área de Trabalho/tipagem-csharp/bin/Debug/net6.0/tipagem-csharp.dll
+/home/jorge/Área de Trabalho/tipagem-csharp/bin/Debug/net6.0/tipagem-csharp.pdb
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.csproj.AssemblyReference.cache
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.AssemblyInfoInputs.cache
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.AssemblyInfo.cs
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.csproj.CoreCompileInputs.cache
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.dll
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/refint/tipagem-csharp.dll
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.pdb
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/tipagem-csharp.genruntimeconfig.cache
+/home/jorge/Área de Trabalho/tipagem-csharp/obj/Debug/net6.0/ref/tipagem-csharp.dll
